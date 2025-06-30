@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👩‍💻 Hey, I'm Aishwarya
 
-<!--
-**Aishwaryeahh-cy/Aishwaryeahh-cy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year CSE (Cybersecurity Specialization) Student  
+💻 Beginner Java Developer | Cybersecurity Enthusiast  
+🛠 Currently building simple cybersecurity tools and learning ethical hacking  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- 🎣 [Phishing Detector](https://github.com/Aishwaryeahh-cy/Phishing-Detector) – A beginner-friendly Java program that scans URLs for phishing keywords.
+- 🛡️ [CyberSentinelX](https://github.com/Aishwaryeahh-cy/CyberSentinelX) – A behavior-based suspicious activity analyzer in Java.
+
+---
+
+## 🧠 Currently Learning
+- Java Basics + OOP
+- Linux Commands
+- CEH Modules (Ethical Hacking)
+- Git & GitHub
+
+---
+
+## 📫 Reach Me
+- GitHub: [@Aishwaryeahh-cy](https://github.com/Aishwaryeahh-cy)
+- Email: vaishwarya274@gmail.com
+
+---
+
+> “Cybersecurity is not just a skill, it's a responsibility.” 🔐✨
