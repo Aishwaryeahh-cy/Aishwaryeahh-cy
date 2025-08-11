@@ -1,10 +1,6 @@
 # 👩‍💻 Hey, I'm Aishwarya
 
-🎓 2nd Year CSE (Cybersecurity Specialization) Student  
-💻 Beginner Java Developer | Cybersecurity Enthusiast  
-🛠 Currently building simple cybersecurity tools and learning ethical hacking  
-
----
+🎓 3rd Year CSE (Cybersecurity specialization)
 
 ## 🚀 Projects
 
@@ -15,16 +11,10 @@
 
 ## 🧠 Currently Learning
 - Java Basics + OOP
-- Linux Commands
-- CEH Modules (Ethical Hacking)
+- Linux Commands,Bash scripting
 - Git & GitHub
 
 ---
 
-## 📫 Reach Me
-- GitHub: [@Aishwaryeahh-cy](https://github.com/Aishwaryeahh-cy)
 - Email: vaishwarya274@gmail.com
 
----
-
-> “Cybersecurity is not just a skill, it's a responsibility.” 🔐✨
