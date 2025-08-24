@@ -17,7 +17,7 @@
 ---
 
 - Email: vaishwarya274@gmail.com
-<h1 align="center">Hey 👋 I'm Aishwarya .V.</h1>
+<h1 align="center">Hey there! 👋🏻</h1>
 
 ###
 
