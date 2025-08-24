@@ -27,16 +27,6 @@
   <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo" />
-</div>
-
-###
-
 <div align="center">
  <a href="https://www.linkedin.com/in/vvaishwarya?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
