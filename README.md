@@ -48,4 +48,16 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Aishwaryeahh-cy&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
+<!-- GitHub Stats Section -->
+<div align="center">
 
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Aishwaryeahh-cy&theme=dracula&hide_border=false" height="180" alt="GitHub Streak"/>
+
+  <!-- General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Aishwaryeahh-cy&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="180" alt="GitHub Stats"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwaryeahh-cy&layout=compact&theme=dracula&hide_border=false" height="180" alt="Top Languages"/>
+  
+</div>
