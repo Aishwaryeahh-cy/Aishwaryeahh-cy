@@ -5,16 +5,19 @@
 ## 🚀 Projects
 
 - 🎣 **Phishing Detector**  
-  A beginner-friendly Java program that scans URLs for phishing keywords.
+  A beginner-friendly Java program that scans URLs for common phishing keywords to help identify suspicious links.
 
 - 🛡️ **CyberSentinelX**  
-  A behavior-based suspicious activity analyzer in Java.
+  A behavior-based suspicious activity analyzer built in Java that detects abnormal patterns indicative of potential security threats.
 
 - 🛡️ **AI-Based Behavioral Intrusion Detection System**  
   🔗 https://github.com/Aishwaryeahh-cy/AI-Behavioral-Intrusion-Detection  
-  Detects suspicious login behavior using machine learning by analyzing typing speed, login time, device trust, and location changes. Built with Python and Streamlit.
+  Detects suspicious login behavior using machine learning by analyzing typing speed, login time, device trust, and location changes. Built using Python and Streamlit as a cybersecurity anomaly detection prototype.
 
----
+- 🔗 **Advanced Phishing & Malicious Link Analyzer**  
+  https://github.com/Aishwaryeahh-cy/Advanced-Phishing-Malicious-Link-Analyzer  
+  Scans URLs and filenames before clicking to detect phishing and malware risks using heuristic-based analysis. Assigns LOW / MEDIUM / HIGH risk scores with clear explanations through an interactive Streamlit dashboard.
+
 
 ## 🧠 Currently Learning
 - Python 
