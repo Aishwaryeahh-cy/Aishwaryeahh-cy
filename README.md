@@ -10,10 +10,11 @@
 ---
 
 ## 🧠 Currently Learning
-- Java Basics + OOP
+- Python 
+- Networking Fundamentals
 - Linux Commands,Bash scripting
 - Git & GitHub
-
+- Generative Artificial Intelligence
 ---
 
 - Email: vaishwarya274@gmail.com
@@ -63,3 +64,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwaryeahh-cy&layout=compact&theme=dracula&hide_border=false" height="180" alt="Top Languages"/>
   
 </div>
+- 🛡️ **AI-Based Behavioral Intrusion Detection System**  
+  🔗 https://github.com/Aishwaryeahh-cy/AI-Behavioral-Intrusion-Detection  
+  Detects suspicious login behavior using machine learning by analyzing typing speed, login time, device trust, and location changes. Built with Python and Streamlit as a cybersecurity anomaly detection prototype.
+
+  <p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat"/>
+    <img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=flat"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  </p>
