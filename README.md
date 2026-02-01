@@ -18,6 +18,11 @@
   https://github.com/Aishwaryeahh-cy/Advanced-Phishing-Malicious-Link-Analyzer  
   Scans URLs and filenames before clicking to detect phishing and malware risks using heuristic-based analysis. Assigns LOW / MEDIUM / HIGH risk scores with clear explanations through an interactive Streamlit dashboard.
 
+- 🧪 **AI-Driven Cyber Attack Simulation Sandbox**  
+  🔗 https://github.com/Aishwaryeahh-cy/AI-Driven-Cyber-Attack-Simulation-Sandbox  
+  A safe, AI-inspired cybersecurity learning sandbox that simulates common cyber attacks such as brute-force, phishing, malware activity, and insider threats. The system generates synthetic security logs, analyzes risk levels (LOW / MEDIUM / HIGH), and explains detection logic through an interactive Streamlit dashboard for educational purposes.
+
+
 
 ## 🧠 Currently Learning
 - Python 
