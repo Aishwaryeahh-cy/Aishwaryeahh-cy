@@ -25,7 +25,8 @@
 
 
 ## 🧠 Currently Learning
-- Python 
+- Python
+- SQL
 - Networking Fundamentals
 - Linux Commands,Bash scripting
 - Git & GitHub
