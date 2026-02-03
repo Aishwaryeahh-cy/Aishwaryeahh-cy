@@ -79,9 +79,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwaryeahh-cy&layout=compact&theme=dracula&hide_border=false" height="180" alt="Top Languages"/>
   
 </div>
-- 🛡️ **AI-Based Behavioral Intrusion Detection System**  
-  🔗 https://github.com/Aishwaryeahh-cy/AI-Behavioral-Intrusion-Detection  
-  Detects suspicious login behavior using machine learning by analyzing typing speed, login time, device trust, and location changes. Built with Python and Streamlit as a cybersecurity anomaly detection prototype.
+
 
   <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
