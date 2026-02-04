@@ -1,4 +1,4 @@
-# 👩‍💻 Hey, I'm Aishwarya
+# 👩‍💻 Hey, I'm Aishwarya V
 
 🎓 3rd Year CSE (Cybersecurity specialization)
 
