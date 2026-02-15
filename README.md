@@ -60,6 +60,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
+  <img width="12"/>
+  <!-- Generative AI / OpenAI logo -->
+  <img src="https://cdn.simpleicons.org/openai" height="60"/>
 </div>
 
 
