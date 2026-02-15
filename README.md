@@ -42,7 +42,7 @@
 
 - Email: vaishwarya274@gmail.com
 
-- <div align="center">
+-<div align="center">
   <!-- Working Skill Logos -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
   <img width="12"/>
@@ -50,13 +50,11 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
   <img width="12"/>
-  <!-- GitHub (fixed version for dark/light mode) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
   <img width="12"/>
-  <!-- Generative AI (reliable OpenAI icon) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" height="60"/>
+  <!-- WHITE OpenAI logo -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="60" style="filter: invert(1);"/>
 </div>
-
 
 
 <br/>
