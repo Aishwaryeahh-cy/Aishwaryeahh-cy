@@ -56,8 +56,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
 <img width="12"/>
 
-<!-- OpenAI logo (forced visible using white background) -->
-<img src="https://cdn.simpleicons.org/openai" height="60" style="background:white;padding:6px;border-radius:10px;"/>
+<!-- OpenAI logo (stable) -->
+<img src="https://cdn.simpleicons.org/openai" height="60"/>
 <img width="12"/>
 
 <!-- Cybersecurity shield -->
