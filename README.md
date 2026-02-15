@@ -8,13 +8,6 @@
 
 🎓 3rd Year CSE (Cybersecurity specialization)
 
-<div align="center">
-  <!-- Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=python,bash,git,github" height="60" />
-</div>
-
-<br/>
-
 ## 🚀 Projects
 
 - 🎣 **Phishing Detector**  
@@ -48,23 +41,6 @@
 ---
 
 - Email: vaishwarya274@gmail.com
-
-<br/>
-
-<div align="center">
-  <!-- Original Skill Logos -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
-  <img width="12"/>
-  <!-- Generative AI / OpenAI logo -->
-  <img src="https://cdn.simpleicons.org/openai" height="60"/>
-</div>
-
 
 <br/>
 
