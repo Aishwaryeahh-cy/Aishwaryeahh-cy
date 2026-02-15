@@ -42,7 +42,7 @@
 
 - Email: vaishwarya274@gmail.com
 
--<div align="center">
+<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
 <img width="12"/>
@@ -56,14 +56,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
 <img width="12"/>
 
-<!-- OpenAI (stable icon) -->
-<img src="https://cdn.simpleicons.org/openai/white" height="60"/>
+<!-- OpenAI logo (forced visible using white background) -->
+<img src="https://cdn.simpleicons.org/openai" height="60" style="background:white;padding:6px;border-radius:10px;"/>
 <img width="12"/>
 
 <!-- Cybersecurity shield -->
-<img src="https://cdn.simpleicons.org/letsencrypt/white" height="60"/>
+<img src="https://cdn.simpleicons.org/shield" height="60"/>
 
 </div>
+
 
 
 
