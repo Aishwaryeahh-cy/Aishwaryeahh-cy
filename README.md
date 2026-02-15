@@ -43,7 +43,6 @@
 - Email: vaishwarya274@gmail.com
 
 -<div align="center">
-  <!-- Working Skill Logos -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60"/>
@@ -52,9 +51,9 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
   <img width="12"/>
-  <!-- WHITE OpenAI logo -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" height="60" style="filter: invert(1);"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="60" style="filter: brightness(0) invert(1);"/>
 </div>
+
 
 
 <br/>
