@@ -43,26 +43,16 @@
 - Email: vaishwarya274@gmail.com
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
-<img width="12"/>
-
-<!-- OpenAI logo (stable) -->
-<img src="https://cdn.simpleicons.org/openai" height="60"/>
-<img width="12"/>
-
-<!-- Cybersecurity shield -->
-<img src="https://cdn.simpleicons.org/shield" height="60"/>
-
+  <!-- Original Skill Logos -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://cdn.simpleicons.org/openai" height="60"/>
 </div>
 
 
