@@ -11,10 +11,10 @@
 ## 🚀 Projects
 
 - 🎣 **Phishing Detector**  
-  A beginner-friendly Java program that scans URLs for common phishing keywords to help identify suspicious links.
+  A beginner-friendly python program that scans URLs for common phishing keywords to help identify suspicious links.
 
 - 🛡️ **CyberSentinelX**  
-  A behavior-based suspicious activity analyzer built in Java that detects abnormal patterns indicative of potential security threats.
+  A behavior-based suspicious activity analyzer built in python that detects abnormal patterns indicative of potential security threats.
 
 - 🛡️ **AI-Based Behavioral Intrusion Detection System**  
   🔗 https://github.com/Aishwaryeahh-cy/AI-Behavioral-Intrusion-Detection  
