@@ -20,7 +20,7 @@
   A beginner-friendly Python tool that compares sender and email domains to detect spoofing.
 
 - 🛡️ **Tiny Threat Intelligence Platform**  
-  https://github.com/Aishwaryeahh-cy/tiny-tip-clean  
+  🔗 https://github.com/Aishwaryeahh-cy/tiny-tip-clean  
   A lightweight Python cybersecurity tool that collects and displays Indicators of Compromise (IOCs) such as malicious IPs, domains, and URLs using a local SQLite database.
   
 - 🛡️ **AI-Based Behavioral Intrusion Detection System**  
