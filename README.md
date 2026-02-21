@@ -11,14 +11,14 @@
 ## 🚀 Projects
 
 
-- 🎣 **Phishing URL Detector**  
-  🔗 https://github.com/Aishwaryeahh-cy/Phishing-Detector
-   A beginner-friendly Python program that scans URLs for common phishing keywords to help identify suspicious links.
+- 🎣 Phishing URL Detector  
+   🔗 https://github.com/Aishwaryeahh-cy/Phishing-Detector_
+  A beginner-friendly Python program that scans URLs for common phishing keywords.
 
-- 🛡️ **Email Spoof Detector**  
-  🔗 https://github.com/Aishwaryeahh-cy/EmailSpoofingDetector  
-  A beginner-friendly Python tool that compares sender domain and email domain to detect possible spoofing attempts.
-
+- 🛡️ Email Spoof Detector  
+   🔗 https://github.com/Aishwaryeahh-cy/EmailSpoofDetector
+  A beginner-friendly Python tool that compares sender and email domains to detect spoofing.
+  
 - 🛡️ **AI-Based Behavioral Intrusion Detection System**  
   🔗 https://github.com/Aishwaryeahh-cy/AI-Behavioral-Intrusion-Detection  
   Detects suspicious login behavior using machine learning by analyzing typing speed, login time, device trust, and location changes. 
