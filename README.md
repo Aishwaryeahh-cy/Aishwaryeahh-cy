@@ -10,11 +10,14 @@
 
 ## 🚀 Projects
 
-- 🎣 **Phishing Detector**  
-  A beginner-friendly python program that scans URLs for common phishing keywords to help identify suspicious links.
 
-- 🛡️ **CyberSentinelX**  
-  A behavior-based suspicious activity analyzer built in python that detects abnormal patterns indicative of potential security threats.
+- 🎣 **Phishing URL Detector**  
+  🔗 https://github.com/Aishwaryeahh-cy/Phishing-Detector  
+  A beginner-friendly Python program that scans URLs for common phishing keywords to help identify suspicious links.
+
+- 🛡️ **Email Spoof Detector**  
+  🔗 https://github.com/Aishwaryeahh-cy/EmailSpoofingDetector  
+  A beginner-friendly Python tool that compares sender domain and email domain to detect possible spoofing attempts.
 
 - 🛡️ **AI-Based Behavioral Intrusion Detection System**  
   🔗 https://github.com/Aishwaryeahh-cy/AI-Behavioral-Intrusion-Detection  
