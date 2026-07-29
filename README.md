@@ -6,7 +6,7 @@
 
 - 💻 LeetCode: https://leetcode.com/u/Aishwaryavvvv/
 
-🎓 3rd Year CSE (Cybersecurity specialization)
+🎓 4th Year CSE (Cybersecurity specialization)
 
 ## 🚀 Projects
 
