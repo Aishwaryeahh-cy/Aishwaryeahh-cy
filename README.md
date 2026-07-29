@@ -21,7 +21,8 @@
 
 - 🛡️ **Tiny Threat Intelligence Platform**  
   🔗 https://github.com/Aishwaryeahh-cy/tiny-tip-clean  
-  A lightweight Python cybersecurity tool that collects and displays Indicators of Compromise (IOCs) such as malicious IPs, domains, and URLs using a local SQLite database.
+  Fetches live malicious domain indicators from URLhaus, stores them locally, and instantly checks whether a domain is a known threat.
+  Demonstrates real-world threat intelligence, Python automation, and efficient IOC management.
   
 - 🛡️ **AI-Based Behavioral Intrusion Detection System**  
   🔗 https://github.com/Aishwaryeahh-cy/AI-Behavioral-Intrusion-Detection  
