@@ -26,7 +26,7 @@
   
 - 🛡️ **AI-Based Behavioral Intrusion Detection System**  
   🔗 https://github.com/Aishwaryeahh-cy/AI-Behavioral-Intrusion-Detection  
-  Detects suspicious login behavior using machine learning by analyzing typing speed, login time, device trust, and location changes.[Based on user Input]
+  Detects suspicious login behavior using machine learning by analyzing typing speed, login time, device trust, and location changes [Based on user Input].
 
 - 🔗 **Advanced Phishing & Malicious Link Analyzer**  
   https://github.com/Aishwaryeahh-cy/Advanced-Phishing-Malicious-Link-Analyzer  
