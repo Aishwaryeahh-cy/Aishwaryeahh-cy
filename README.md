@@ -30,7 +30,7 @@
 
 - 🔗 **Advanced Phishing & Malicious Link Analyzer**  
   https://github.com/Aishwaryeahh-cy/Advanced-Phishing-Malicious-Link-Analyzer  
-  Scans URLs and filenames before clicking to detect phishing and malware risks using heuristic-based analysis. 
+  Scans URLs and filenames before clicking to detect phishing and malware risks using heuristic-based analysis. ..
 
 - 🧪 **AI-Driven Cyber Attack Simulation Sandbox**  
   🔗 https://github.com/Aishwaryeahh-cy/AI-Driven-Cyber-Attack-Simulation-Sandbox  
