@@ -30,7 +30,7 @@
 
 - 🔗 **Advanced Phishing & Malicious Link Analyzer**  
   https://github.com/Aishwaryeahh-cy/Advanced-Phishing-Malicious-Link-Analyzer  
-  Scans URLs and filenames before clicking to detect phishing and malware risks using heuristic-based analysis. ..
+  An intelligent phishing and malicious link analyzer built with Python and Streamlit.The application uses custom security heuristics alongside the VirusTotal API   to fetch live threat intelligence and provide accurate, real-time risk assessment.
 
 - 🧪 **AI-Driven Cyber Attack Simulation Sandbox**  
   🔗 https://github.com/Aishwaryeahh-cy/AI-Driven-Cyber-Attack-Simulation-Sandbox  
