@@ -34,7 +34,7 @@
 
 - 🧪 **AI-Driven Cyber Attack Simulation Sandbox**  
   🔗 https://github.com/Aishwaryeahh-cy/AI-Driven-Cyber-Attack-Simulation-Sandbox  
-  A safe, AI-inspired cybersecurity learning sandbox that simulates common cyber attacks such as brute-force, phishing, malware activity, and insider threats.
+  A safe, AI-inspired cybersecurity learning sandbox that simulates common cyber attacks such as brute-force, phishing, malware activity, and insider threats..
 
 - 🌐 **HTTP Network Simulation (Cisco Packet Tracer)**  
   https://github.com/Aishwaryeahh-cy/SImulating-http-cisco-packet-tracer  
