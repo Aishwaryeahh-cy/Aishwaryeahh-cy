@@ -32,10 +32,6 @@
   https://github.com/Aishwaryeahh-cy/Advanced-Phishing-Malicious-Link-Analyzer  
   An intelligent phishing and malicious link analyzer built with Python and Streamlit.The application uses custom security heuristics alongside the VirusTotal API   to fetch live threat intelligence and provide accurate, real-time risk assessment.
 
-- 🧪 **AI-Driven Cyber Attack Simulation Sandbox**  
-  🔗 https://github.com/Aishwaryeahh-cy/AI-Driven-Cyber-Attack-Simulation-Sandbox  
-  A safe, AI-inspired cybersecurity learning sandbox that simulates common cyber attacks such as brute-force, phishing, malware activity, and insider threats..
-
 - 🌐 **HTTP Network Simulation (Cisco Packet Tracer)**  
   https://github.com/Aishwaryeahh-cy/SImulating-http-cisco-packet-tracer  
   A networking project built in Cisco Packet Tracer that simulates HTTP communication between client and server, demonstrating basic web request flow and network configuration.
