@@ -40,6 +40,7 @@
 
 ## 🧠 Currently Learning
 - Python
+- Java
 - SQL
 - HTML
 - CSS
