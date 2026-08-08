@@ -34,7 +34,7 @@
 
 - 🌐 **HTTP Network Simulation (Cisco Packet Tracer)**  
   https://github.com/Aishwaryeahh-cy/SImulating-http-cisco-packet-tracer  
-  A networking project built in Cisco Packet Tracer that simulates HTTP communication between client and server, demonstrating basic web request flow and network configuration.
+  A networking project built in Cisco Packet Tracer that simulates HTTP communication between client and server, demonstrating basic web request flow and network configuration..
 
 ---
 
