@@ -38,17 +38,17 @@
 
 ---
 
-## 🧠 Currently Learning
-- Python
+## Currently Learning
+
 - Java
+- Python
 - SQL
-- HTML
-- CSS
-- Javascript(Basics)
-- Networking Fundamentals
-- Linux Commands, Bash scripting
+- HTML & CSS
+- JavaScript
+- Generative AI & Prompt Engineering
 - Git & GitHub
-- Generative Artificial Intelligence
+- Linux & Bash Scripting
+- Networking Fundamentals
 
 ---
 
