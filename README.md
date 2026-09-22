@@ -34,7 +34,11 @@
 
 - 🌐 **HTTP Network Simulation (Cisco Packet Tracer)**  
   https://github.com/Aishwaryeahh-cy/SImulating-http-cisco-packet-tracer  
-  A networking project built in Cisco Packet Tracer that simulates HTTP communication between client and server, demonstrating basic web request flow and network configuration..
+  A networking project built in Cisco Packet Tracer that simulates HTTP communication between client and server, demonstrating basic web request flow and network configuration.
+
+- **Logistics Shipment Tracking System (CBA Apprenticeship Project)**  
+  [https://github.com/Aishwaryeahh-cy/Logistics-Shipment-Tracking-System](https://github.com/Aishwaryeahh-cy/Logistics-Shipment-Tracking-System)  
+  A logistics tracking application developed as part of my Commonwealth Bank of Australia (CBA) apprenticeship, featuring shipment creation, real-time tracking, shipment history, status lifecycle management, and operations management using React, JavaScript, REST APIs, and MongoDB.
 
 ---
 
