@@ -13,7 +13,7 @@
 
 - 🎣 Phishing URL Detector  
    🔗 https://github.com/Aishwaryeahh-cy/Phishing-Detector_
-  A beginner-friendly Python program that scans URLs for common phishing keywords..
+  A beginner-friendly Python program that scans URLs for common phishing keywords.
 
 - 🛡️ Email Spoof Detector  
    🔗 https://github.com/Aishwaryeahh-cy/EmailSpoofDetector
