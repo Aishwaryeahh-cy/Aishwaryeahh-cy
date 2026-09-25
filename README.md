@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋🏻</h1>
 
-# I'm Aishwarya V..
+# I'm Aishwarya V.
 
 ## 👩‍💻 Coding Profiles
 
